@@ -1,0 +1,33 @@
+[
+  {
+    "id":1,
+    "projectName":"jsSlider",
+    "projectImage":"jsSlider.png",
+    "tecnologies":"CSS,HTML,JavaScript",
+    "link":"https://gawade07.github.io/sliderJs/"
+
+
+  },
+  {"id":2,
+    "projectName":"Cricket Game",
+    "projectImage":"cricket.png",
+    "tecnologies":"HTML,CSS,ReactJs",
+    "link":"https://gawade07.github.io/jsGame/"
+
+  },
+  {"id":3,
+    "projectName":"Hiking",
+    "projectImage":"Hiking.png",
+    "tecnologies":"HTML,CSS,ReactJs",
+    "link":"https://gawade07.github.io/hiking/"
+
+  },
+  {"id":4,
+    "projectName":"Mintra",
+    "projectImage":"image1.png",
+    "tecnologies":"HTML,CSS,ReactJs",
+    "link":"https://gawade07.github.io/mintra1/"
+
+
+  }
+]
